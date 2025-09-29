@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/Samples/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 0
+    path: Assets/Scenes/Broken/MoonBaseBroken.unity
+    guid: b8b4c3f12f6444b40a9b91b6f4b0a4fb
+  - enabled: 0
+    path: Assets/Scenes/MoonBase.unity
+    guid: d07ba937cfa4a451a80afcb98eb08c4c
+  - enabled: 1
+    path: Assets/Scenes/mooninside1.unity
+    guid: 7836c7bbe62344c2e8fd78e02d11e441
+  - enabled: 1
+    path: Assets/Scenes/MoonOutside.unity
+    guid: 52949c21e5612410397974e5fe127477
+  - enabled: 1
+    path: Assets/Scenes/Bedroom.unity
+    guid: f2203915339d4425993af3c8f5700ec4
+  - enabled: 0
+    path: Assets/Scenes/Samples/SCENE WITH VR BASICS.unity
+    guid: 9c58d13c80a1e42db975ebebd20db6dd
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: d8cd643cd72cc45b1868e95babf292f9, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 1d254058be45b42c9b0e862466e02eeb, type: 2}
+    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: b298d571a2b914cdb923b8f44f5e683e, type: 2}
